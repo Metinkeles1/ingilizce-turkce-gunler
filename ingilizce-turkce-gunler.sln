@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ingilizce-turkce-gunler", "ingilizce-turkce-gunler\ingilizce-turkce-gunler.pyproj", "{15F5C489-C7E5-4566-91B1-1882C65108CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15F5C489-C7E5-4566-91B1-1882C65108CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F5C489-C7E5-4566-91B1-1882C65108CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4531C91-FA9F-43A2-B24A-E3F4393A0380}
+	EndGlobalSection
+EndGlobal
