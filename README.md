@@ -1,0 +1,2 @@
+# ingilizce-turkce-gunler
+ (Python)
